@@ -25,7 +25,7 @@ public:
 	char pad_032C[2564]; //0x032C
 	class CAutomobile *m_vehicle; //0x0D30
 	char pad_0D38[912]; //0x0D38
-	class CPlayerInfo *m_player_info; //0x10C8
+	class CPlayerInfo *m_player_info; //0x10C8 // r32bj
 	char pad_10D0[8]; //0x10D0
 	class CPedWeaponManager *m_weapon_manager; //0x10D8
 	char pad_10E0[907]; //0x10E0
